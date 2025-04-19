@@ -22,7 +22,10 @@ The model is trained on two datasets: `Fake.csv` and `True.csv`, containing labe
 ---
 
 ## 📁 Project Structure
-Fake-News-Detection-Using-ML/ ├── Fake.csv # Fake news dataset ├── True.csv # Real news dataset ├── Fake_News_Detection_Using_Machine_Learning.ipynb # ML notebook └── README.md
+Fake-News-Detection-Using-ML/ 
+├── Fake.csv # Fake news dataset
+├── True.csv # Real news dataset 
+├── Fake_News_Detection_Using_Machine_Learning.ipynb # ML notebook └── README.md
 
 ---
 
